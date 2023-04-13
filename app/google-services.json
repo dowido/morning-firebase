@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537910433766",
+    "project_id": "donald-s-app-2023",
+    "storage_bucket": "donald-s-app-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537910433766:android:a1cd7451d170c395902827",
+        "android_client_info": {
+          "package_name": "com.example.morningfirebasedbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537910433766-ijgul2ujnurov6c1t49a2lqq877bvtia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobMVvscgvrEAiv9za0sl7kbCqBSZqai4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537910433766-ijgul2ujnurov6c1t49a2lqq877bvtia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
